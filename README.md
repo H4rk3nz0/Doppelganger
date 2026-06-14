@@ -126,9 +126,12 @@ DSA subgroup order (q) per lineage.
 A C2 auth signature is considered valid when its r and s both fall in
 [1, q) — well-formed DSA signature components for that operator key.
 
+```
 OLD_DSA_Q = 0xf83a979e356e7aa29d2283d5d07dfc0c0dd1aceb27758d53badde8a5
 NEW_DSA_Q = 0xc2a32c1c8b3790792da196312422c94b1472fe1e7ca7213bc94d60a3
+```
 
+Full public keys
 
 ```
 # Old
