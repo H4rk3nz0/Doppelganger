@@ -3,7 +3,7 @@
 ## Known CVES Exploited
 
 ```
-CVE-2018-18471 + CVE-2018-18471 - Axentra HipServ XXE 2 RCE (Seagate / Netgear/ Medion Lifecloud)
+CVE-2018-18471 + CVE-2018-18472 - Axentra HipServ XXE 2 RCE (Seagate / Netgear/ Medion Lifecloud)
 ```
 
 ## C2 Servers - Use kadnap_detect.py For Up-To-Date C2 Server Discovery
